@@ -1,0 +1,10 @@
+# Ignore dependencies and build artifacts across all subfolders
+**/node_modules/
+**/vendor/
+**/.env
+**/.env.local
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/pubspec.lock
